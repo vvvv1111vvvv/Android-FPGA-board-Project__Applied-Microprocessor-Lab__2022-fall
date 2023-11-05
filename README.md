@@ -22,12 +22,3 @@ Applied OpenCV, OpenCL, Java JNI, C, Linux and Android
 - Possible to compare num clacification accuracy among oringal, blurred, edge-detect images
 
 - Also, controlled Linux based Hardwares ( LED, 9-segment, 2 array LCD)
-
-
-
-
-
-## 🚀 Specific Procedure Methods
-(1) Crawl economic indicators on the Bank of Korea's web page and process them.
-
-(2) Crawls the KOSPI index on the Naver finance and processes it
